@@ -3,15 +3,12 @@
 
     <style name="heading_style">
         <item name="android:layout_marginStart">24dp</item>
-        <item name="android:layout_marginTop">64dp</item>
         <item name="android:textSize">36sp</item>
         <item name="fontFamily">@font/poppins_medium</item>
         <item name="android:textColor">@color/text_color_dark</item>
     </style>
 
     <style name="layout_edittext_style">
-        <item name="android:layout_marginStart">24dp</item>
-        <item name="android:layout_marginEnd">24dp</item>
         <item name="fontFamily">@font/poppins</item>
         <item name="android:textColor">@color/text_color_dark</item>
         <item name="hintTextColor">@color/hint_color_dark</item>
@@ -19,14 +16,18 @@
         <item name="android:padding">8dp</item>
     </style>
 
+<!--    <item name="android:layout_marginStart">24dp</item>-->
+<!--    <item name="android:layout_marginEnd">24dp</item>-->
+
     <style name="edittext_style">
+
         <item name="android:textSize">16sp</item>
         <item name="fontFamily">@font/poppins</item>
         <item name="android:textColor">@color/text_color_dark</item>
         <item name="hintTextColor">@color/hint_color_dark</item>
         <item name="backgroundTint">@color/transparent</item>
         <item name="android:textColorHint">@color/hint_color_dark</item>
-        <item name="android:padding">8dp</item>
+        <item name="android:padding">12dp</item>
     </style>
 
     <style name="button_style">

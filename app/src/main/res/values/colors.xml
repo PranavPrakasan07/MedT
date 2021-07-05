@@ -9,6 +9,8 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="background_dark">#212121</color>
+    <color name="stroke_dark">#313131</color>
+    <color name="stroke_light">#414141</color>
     <color name="text_color_dark">#E1E1E1</color>
     <color name="hint_color_dark">#80E1E1E1</color>
     <color name="blue_light">#00A3FF</color>
